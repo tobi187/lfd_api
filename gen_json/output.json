@@ -1,0 +1,29 @@
+{
+  "ueberbegriff": "Sicherstellen der Qualit\u00e4t von Softwareanwendungen",
+  "points": [
+    {
+      "lfd": "B2a",
+      "text": "Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen ber\u00c3\u00bccksichtigen"
+    },
+    {
+      "lfd": "B2b",
+      "text": "Datenintegrit\u00c3\u00a4t mithilfe von Werkzeugen sicherstellen"
+    },
+    {
+      "lfd": "B2c",
+      "text": "Modultests erstellen und durchf\u00c3\u00bchren"
+    },
+    {
+      "lfd": "B2d",
+      "text": "Werkzeuge zur Versionsverwaltung einsetzen"
+    },
+    {
+      "lfd": "B2e",
+      "text": "Testkonzepte erstellen und Tests durchf\u00c3\u00bchrensowie Testergebnisse bewerten und dokumentieren"
+    },
+    {
+      "lfd": "B2f",
+      "text": "Daten und Sachverhalte aus Tests multimedialaufbereiten und situationsgerecht unter Nutzungdigitaler Werkzeuge und unter Beachtung derbetrieblichen Vorgaben pr\u00c3\u00a4sentieren"
+    }
+  ]
+}

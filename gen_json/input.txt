@@ -1,0 +1,10 @@
+a) Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen berücksichtigen
+b) Datenintegrität mithilfe von Werkzeugen sicherstellen
+c) Modultests erstellen und durchführen
+d) Werkzeuge zur Versionsverwaltung einsetzen
+e) Testkonzepte erstellen und Tests durchführen
+sowie Testergebnisse bewerten und dokumentieren
+f) Daten und Sachverhalte aus Tests multimedial
+aufbereiten und situationsgerecht unter Nutzung
+digitaler Werkzeuge und unter Beachtung der
+betrieblichen Vorgaben präsentieren 

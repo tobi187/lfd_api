@@ -43,8 +43,8 @@
                     "text": "eigene Vorgehensweise sowie die Aufgabendurchf\u00c3\u00bchrung im Team reflektieren und bei derVerbesserung der Arbeitsprozesse mitwirken"
                   }
                 ]
-              },
-              {
+            },
+            {
                 "ueberbegriff": "Informieren und Beraten von Kunden und Kundinnen",
                 "points": [
                   {
@@ -99,6 +99,99 @@
                   {
                     "lfd": "A3d",
                     "text": "Ver\u00c3\u00a4nderungen von Einsatzfeldern f\u00c3\u00bcr IT-Systeme aufgrund technischer, wirtschaftlicher undgesellschaftlicher Entwicklungen feststellen"
+                  }
+                ]
+              },
+              {
+                "ueberbegriff": "Entwickeln, Erstellen und Betreuen von IT-L\u00f6sungen",
+                "points": [
+                  {
+                    "lfd": "A4a",
+                    "text": "IT-Systeme zur Bearbeitung betrieblicher Fachaufgaben analysieren sowie unter Beachtunginsbesondere von Lizenzmodellen, Urheberrechten und Barrierefreiheit konzeptionieren, konfigurieren, testen und dokumentieren"
+                  },
+                  {
+                    "lfd": "A4b",
+                    "text": "Programmiersprachen, insbesondere prozedurale und objektorientierte Programmiersprachen,unterscheiden"
+                  },
+                  {
+                    "lfd": "A4c",
+                    "text": "systematisch Fehler erkennen, analysieren undbeheben"
+                  },
+                  {
+                    "lfd": "A4d",
+                    "text": "Algorithmen formulieren und Anwendungen ineiner Programmiersprache erstellen"
+                  },
+                  {
+                    "lfd": "A4e",
+                    "text": "Datenbankmodelle unterscheiden, Daten organisieren und speichern sowie Abfragen erstellen"
+                  }
+                ]
+              }
+        ]
+    },
+    {
+        "abschnitt": "B",
+        "text": "berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung",
+        "teile": [
+            {
+                "ueberbegriff": "Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen",
+                "points": [
+                  {
+                    "lfd": "B1a",
+                    "text": "Vorgehensmodelle und -methoden sowie Entwicklungsumgebungen und -bibliotheken ausw\u00c3\u00a4hlen und einsetzen"
+                  },
+                  {
+                    "lfd": "B1b",
+                    "text": "Analyse- und Designverfahren anwenden"
+                  },
+                  {
+                    "lfd": "B1c",
+                    "text": "Benutzerschnittstellen ergonomisch gestaltenund an Kundenanforderungen anpassen"
+                  },
+                  {
+                    "lfd": "B1d",
+                    "text": "Anwendungsl\u00c3\u00b6sungen unter Ber\u00c3\u00bccksichtigungder bestehenden Systemarchitektur entwerfenund realisieren"
+                  },
+                  {
+                    "lfd": "B1e",
+                    "text": "bestehende Anwendungsl\u00c3\u00b6sungen anpassen"
+                  },
+                  {
+                    "lfd": "B1f",
+                    "text": "Datenaustausch zwischen Systemen realisierenund unterschiedliche Datenquellen nutzen"
+                  },
+                  {
+                    "lfd": "B1g",
+                    "text": "komplexe Abfragen aus unterschiedlichen Datenquellen durchf\u00c3\u00bchren und Datenbestandsberichteerstellen"
+                  }
+                ]
+              },
+              {
+                "ueberbegriff": "Sicherstellen der Qualit\u00e4t von Softwareanwendungen",
+                "points": [
+                  {
+                    "lfd": "B2a",
+                    "text": "Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen ber\u00c3\u00bccksichtigen"
+                  },
+                  {
+                    "lfd": "B2b",
+                    "text": "Datenintegrit\u00c3\u00a4t mithilfe von Werkzeugen sicherstellen"
+                  },
+                  {
+                    "lfd": "B2c",
+                    "text": "Modultests erstellen und durchf\u00c3\u00bchren"
+                  },
+                  {
+                    "lfd": "B2d",
+                    "text": "Werkzeuge zur Versionsverwaltung einsetzen"
+                  },
+                  {
+                    "lfd": "B2e",
+                    "text": "Testkonzepte erstellen und Tests durchf\u00c3\u00bchrensowie Testergebnisse bewerten und dokumentieren"
+                  },
+                  {
+                    "lfd": "B2f",
+                    "text": "Daten und Sachverhalte aus Tests multimedialaufbereiten und situationsgerecht unter Nutzungdigitaler Werkzeuge und unter Beachtung derbetrieblichen Vorgaben pr\u00c3\u00a4sentieren"
                   }
                 ]
               }
