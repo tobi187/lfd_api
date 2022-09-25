@@ -1,8 +1,10 @@
 from services.files import validate_file
 from services.db import try_find
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 BASE_ROUTE = "/api/v1/"
 
@@ -26,8 +28,8 @@ def get_data():
         result = rdata["job"]
         response = jsonify(try_find(result))
 
-        response.headers.add('Access-Control-Allow-Origin', '*')
-        response.headers.add("Access-Control-Allow-Methods", "POST")
+        #response.headers.add('Access-Control-Allow-Origin', '*')
+        #response.headers.add("Access-Control-Allow-Methods", "POST")
         return response
 
     return {"status": 400, "message": "only POST allowed"}
