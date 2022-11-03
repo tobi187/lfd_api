@@ -5,7 +5,7 @@ import os
 import uuid
 
 
-BASE_PATH = r"C:\Users\fisch\Desktop\projects\web\lfd_api\temp"
+BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
 ALLOWED_EXTENSION = "docx"
 
 
@@ -24,10 +24,10 @@ def validate_file(file: FileStorage) -> str:
 
 def store_file_very_unsecure(file):
     content = base64.b64decode(file)
+    
+    file_name = str(uuid.uuid4())
 
-    file_name = str(uuid.uuid4()) + ".docx"
-
-    path = os.path.join(BASE_PATH, file_name)
+    path = os.path.join(BASE_PATH, file_name + ".docx")
 
     with open(path, "wb") as file:
         file.write(content)

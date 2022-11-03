@@ -2,14 +2,14 @@ import os
 import docx2txt
 import docxtpl
 
-BASE_PATH = r"C:\Users\fisch\Desktop\projects\web\lfd_api\temp"
+BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
 
 
 def extract_data(file_name: str) -> list[object]:
     start = False
     content: list[str] = []
     text: str = docx2txt.process(os.path.join(
-        BASE_PATH, file_name))  # type: ignore
+        BASE_PATH, file_name + ".docx"))  # type: ignore
     lines = text.split("\n")
 
     for line in lines:
@@ -26,7 +26,7 @@ def extract_data(file_name: str) -> list[object]:
 
 def fill_file(content: list[object], file_name: str) -> None:
     doc = docxtpl.DocxTemplate(os.path.join(
-        BASE_PATH, file_name))  # type: ignore
+        BASE_PATH, file_name + ".docx"))  # type: ignore
 
     data = sorted(content, key=lambda x: x["index"])
 
