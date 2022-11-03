@@ -2,7 +2,8 @@ import os
 import docx2txt
 import docxtpl
 
-BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
+# BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
+BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\temp"
 
 
 def extract_data(file_name: str) -> list[object]:
