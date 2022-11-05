@@ -25,7 +25,7 @@ def try_find(name):
 def all_jobs():
     jobs = [
         ("systemIntegration", "System Integration"),
-        ("coder", "Anwendungsentwickler"),
+        ("coder", "Gottgleiche Wesen"),
         ("lager", "Lager Fachkraft")
     ]
 
