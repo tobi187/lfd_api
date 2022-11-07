@@ -1,29 +1,41 @@
 {
-  "ueberbegriff": "Sicherstellen der Qualit\u00e4t von Softwareanwendungen",
+  "ueberbegriff": "Administrieren von IT-Systemen",
   "points": [
     {
-      "lfd": "B2a",
-      "text": "Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen ber\u00c3\u00bccksichtigen"
+      "lfd": "C3a",
+      "text": "Richtlinien zur Nutzung von IT-Systemen erstellen und einführen"
     },
     {
-      "lfd": "B2b",
-      "text": "Datenintegrit\u00c3\u00a4t mithilfe von Werkzeugen sicherstellen"
+      "lfd": "C3b",
+      "text": "Lizenzrechte verwalten und die Einhaltung von Lizenzbestimmungen überwachen"
     },
     {
-      "lfd": "B2c",
-      "text": "Modultests erstellen und durchf\u00c3\u00bchren"
+      "lfd": "C3c",
+      "text": "Berechtigungskonzepte entwerfen, abstimmen und umsetzen"
     },
     {
-      "lfd": "B2d",
-      "text": "Werkzeuge zur Versionsverwaltung einsetzen"
+      "lfd": "C3d",
+      "text": "Systemaktualisierungen evaluieren und durchführen"
     },
     {
-      "lfd": "B2e",
-      "text": "Testkonzepte erstellen und Tests durchf\u00c3\u00bchrensowie Testergebnisse bewerten und dokumentieren"
+      "lfd": "C3e",
+      "text": "Konzepte zur Datensicherung und -archivierung erstellen und umsetzen"
     },
     {
-      "lfd": "B2f",
-      "text": "Daten und Sachverhalte aus Tests multimedialaufbereiten und situationsgerecht unter Nutzungdigitaler Werkzeuge und unter Beachtung derbetrieblichen Vorgaben pr\u00c3\u00a4sentieren"
+      "lfd": "C3f",
+      "text": "Konzepte zur Daten- und Systemwiederherstellung erstellen und umsetzen"
+    },
+    {
+      "lfd": "C3g",
+      "text": "Systemauslastung überwachen und Ressourcen verwalten"
+    },
+    {
+      "lfd": "C3h",
+      "text": "Systemverhalten überwachen, bewerten und Maßnahmen ergreifen"
+    },
+    {
+      "lfd": "C3i",
+      "text": "Benutzeranfragen aufnehmen, analysieren und bearbeiten"
     }
   ]
 }

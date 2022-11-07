@@ -1,9 +1,8 @@
 import json
-import html
 
-part = input("Abschnitt: ").strip()
+part = input("Abschnitt: ").strip().upper()
 number = input("Lfd Nr: ").strip()
-summary = input("Überbegriff: ").strip()
+summary = ""
 
 
 def create_obj(k: str, v: str):
@@ -14,9 +13,11 @@ def create_obj(k: str, v: str):
 
 
 def read_text():
-    with open("input.txt", "r+") as f:
-        arr = html.escape(f.read().replace("\n", ""))
+    with open("input.txt", "r+", encoding="utf-8") as f:
+        global summary
+        arr, summary = f.read().split("\n\n")
 
+        arr = arr.replace("\n", " ")
     nString = arr[0]
     for i in range(1, len(arr) - 5):
         if arr[i+1] == ")":
@@ -26,13 +27,16 @@ def read_text():
     nString += arr[-5:]
 
     data = [e.split(")") for e in nString.split("~")]
-    return [create_obj(e[0].strip(), e[1].strip()) for e in data]
+    return [create_obj(f.strip(), s.strip()) for f, s in data]
 
 
+whatever = read_text()
 result = {
-    "ueberbegriff": summary.replace("\n", ""),
-    "points": read_text()
+    "ueberbegriff": summary.replace("\n", " ").strip(),
+    "points": whatever
 }
 
-with open("output.json", "w") as f:
-    json.dump(result, f, indent=2)
+print(result)
+
+with open("output.json", "w", encoding="utf-8") as f:
+    json.dump(result, f, indent=2, ensure_ascii=False)

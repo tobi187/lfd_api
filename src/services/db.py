@@ -2,11 +2,12 @@ import json
 import os
 
 PATHS = {
-    "systemIntegration": "data/systemintegration.json"
+    "systemIntegration": "data/systemintegration.json",
+    "coder": "data/coder.json"
 }
 
-# BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\src"
-BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\src"
+BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\src"
+# BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\src"
 
 
 def try_find(name):
@@ -15,7 +16,6 @@ def try_find(name):
 
     with open(os.path.join(BASE_PATH, PATHS[name]), "r", encoding="utf-8") as file:
         data = json.load(file)
-        print(data)
 
     return {
         "status": 200,
