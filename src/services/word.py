@@ -2,8 +2,8 @@ import os
 import docx2txt
 import docxtpl
 
-# BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
-BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\temp"
+BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
+# BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\temp"
 
 
 def extract_data(file_name: str) -> list[object]:
@@ -26,8 +26,9 @@ def extract_data(file_name: str) -> list[object]:
 
 
 def fill_file(content: list[object], file_name: str) -> None:
+    docName = file_name + ".docx"
     doc = docxtpl.DocxTemplate(os.path.join(
-        BASE_PATH, file_name + ".docx"))  # type: ignore
+        BASE_PATH, docName))  # type: ignore
 
     data = sorted(content, key=lambda x: x["index"])
 
@@ -36,4 +37,4 @@ def fill_file(content: list[object], file_name: str) -> None:
     }
 
     doc.render(filler)  # type: ignore
-    doc.save(os.path.join(BASE_PATH, file_name))  # type: ignore
+    doc.save(os.path.join(BASE_PATH, docName))  # type: ignore
