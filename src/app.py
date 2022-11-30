@@ -10,8 +10,8 @@ app = Flask(__name__)
 CORS(app)
 
 BASE_ROUTE = "/api/v1/"
-# BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
-BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\temp"
+BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
+# BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\temp"
 
 
 @app.route(BASE_ROUTE + "init")

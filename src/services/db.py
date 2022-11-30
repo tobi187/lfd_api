@@ -6,8 +6,8 @@ PATHS = {
     "coder": "data/coder.json"
 }
 
-BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\src"
-# BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\src"
+# BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\src"
+BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\src"
 
 
 def try_find(name):
