@@ -1,302 +1,330 @@
 [
-    {
-        "abschnitt": "A",
-        "text": "fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten",
-        "teile": [
-            {
-                "ueberbegriff": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischenGeschäfts- und Leistungsprozessen",
-                "points": [
-                  {
-                    "lfd": "A1a",
-                    "text": "Grundsätze und Methoden des Projektmanagements anwenden"
-                  },
-                  {
-                    "lfd": "A1b",
-                    "text": "Auftragsunterlagen und Durchführbarkeit desAuftrags prüfen, insbesondere in Hinblick auf rechtliche, wirtschaftliche und terminliche Vorgaben, und den Auftrag mit den betrieblichen Prozessen und Möglichkeiten abstimmen"
-                  },
-                  {
-                    "lfd": "A1c",
-                    "text": "Zeitplan und Reihenfolge der Arbeitsschritte für den eigenen Arbeitsbereich festlegen"
-                  },
-                  {
-                    "lfd": "A1d",
-                    "text": "Termine planen und abstimmen sowie Terminüberwachung durchführen"
-                  },
-                  {
-                    "lfd": "A1e",
-                    "text": "Probleme analysieren und als Aufgabe definieren sowie Lösungsalternativen entwickeln und beurteilen"
-                  },
-                  {
-                    "lfd": "A1f",
-                    "text": "Arbeits- und Organisationsmittel wirtschaftlich und ökologisch unter Berücksichtigung der vorhandenen Ressourcen und der Budgetvorgabeneinsetzen"
-                  },
-                  {
-                    "lfd": "A1g",
-                    "text": "Aufgaben im Team sowie mit internen und externen Kunden und Kundinnen planen und abstimmen"
-                  },
-                  {
-                    "lfd": "A1h",
-                    "text": "betriebswirtschaftlich relevante Daten erheben und bewerten und dabei Geschäfts- und Leistungsprozesse berücksichtigen"
-                  },
-                  {
-                    "lfd": "A1i",
-                    "text": "eigene Vorgehensweise sowie die Aufgabendurchführung im Team reflektieren und bei derVerbesserung der Arbeitsprozesse mitwirken"
-                  }
-                ]
-            },
-            {
-                "ueberbegriff": "Informieren und Beraten von Kunden und Kundinnen",
-                "points": [
-                  {
-                    "lfd": "A2a",
-                    "text": "im Rahmen der Marktbeobachtung Preise, Leistungen und Konditionen von Wettbewerbern vergleichen"
-                  },
-                  {
-                    "lfd": "A2b",
-                    "text": "Bedarfe von Kunden und Kundinnen feststellen sowie Zielgruppen unterscheiden"
-                  },
-                  {
-                    "lfd": "A2c",
-                    "text": "Kunden und Kundinnen unter Beachtung vonKommunikationsregeln informieren sowie Sachverhalte präsentieren und dabei deutsche undenglische Fachbegriffe anwenden"
-                  },
-                  {
-                    "lfd": "A2d",
-                    "text": "Maßnahmen für Marketing und Vertrieb unterstützen"
-                  },
-                  {
-                    "lfd": "A2e",
-                    "text": "Informationsquellen auch in englischer Sprache aufgabenbezogen auswerten und für die Kundeninformation nutzen"
-                  },
-                  {
-                    "lfd": "A2f",
-                    "text": "Gespräche situationsgerecht führen und Kunden und Kundinnen unter Berücksichtigung der Kundeninteressen beraten"
-                  },
-                  {
-                    "lfd": "A2g",
-                    "text": "Kundenbeziehungen unter Beachtung rechtlicherRegelungen und betrieblicher Grundsätze gestalten"
-                  },
-                  {
-                    "lfd": "A2h",
-                    "text": "Daten und Sachverhalte interpretieren, multimedial aufbereiten und situationsgerecht unterNutzung digitaler Werkzeuge und unter Berücksichtigung der betrieblichen Vorgaben präsentieren"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen ",
-                "points": [
-                  {
-                    "lfd": "A3a",
-                    "text": "marktgängige IT-Systeme für unterschiedlicheEinsatzbereiche hinsichtlich Leistungsfähigkeit,Wirtschaftlichkeit und Barrierefreiheit beurteilen"
-                  },
-                  {
-                    "lfd": "A3b",
-                    "text": "Angebote zu IT-Komponenten, IT-Produkten undIT-Dienstleistungen einholen und bewerten sowieSpezifikationen und Konditionen vergleichen"
-                  },
-                  {
-                    "lfd": "A3c",
-                    "text": "technologische Entwicklungstrends von ITSystemen feststellen sowie ihre wirtschaftlichen,sozialen und beruflichen Auswirkungen aufzeigen"
-                  },
-                  {
-                    "lfd": "A3d",
-                    "text": "Veränderungen von Einsatzfeldern für IT-Systeme aufgrund technischer, wirtschaftlicher und gesellschaftlicher Entwicklungen feststellen"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
-                "points": [
-                  {
-                    "lfd": "A4a",
-                    "text": "IT-Systeme zur Bearbeitung betrieblicher Fachaufgaben analysieren sowie unter Beachtung insbesondere von Lizenzmodellen, Urheberrechten und Barrierefreiheit konzeptionieren, konfigurieren, testen und dokumentieren"
-                  },
-                  {
-                    "lfd": "A4b",
-                    "text": "Programmiersprachen, insbesondere prozedurale und objektorientierte Programmiersprachen,unterscheiden"
-                  },
-                  {
-                    "lfd": "A4c",
-                    "text": "systematisch Fehler erkennen, analysieren und beheben"
-                  },
-                  {
-                    "lfd": "A4d",
-                    "text": "Algorithmen formulieren und Anwendungen in einer Programmiersprache erstellen"
-                  },
-                  {
-                    "lfd": "A4e",
-                    "text": "Datenbankmodelle unterscheiden, Daten organisieren und speichern sowie Abfragen erstellen"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Durchführen und Dokumentieren von qualitätssichernden Maßnahmen",
-                "points": [
-                  {
-                    "lfd": "A5a",
-                    "text": "betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden und Qualitätssicherungsmaßnahmen projektbegleitend durchführen und dokumentieren"
-                  },
-                  {
-                    "lfd": "A5b",
-                    "text": "Ursachen von Qualitätsmängeln systematisch feststellen, beseitigen und dokumentieren"
-                  },
-                  {
-                    "lfd": "A5c",
-                    "text": "im Rahmen eines Verbesserungsprozesses die Zielerreichung kontrollieren, insbesondere einen Soll-Ist-Vergleich durchführen"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz",
-                "points": [
-                  {
-                    "lfd": "A6a",
-                    "text": "betriebliche Vorgaben und rechtliche Regelungen zur IT-Sicherheit und zum Datenschutz einhalten"
-                  },
-                  {
-                    "lfd": "A6b",
-                    "text": "Sicherheitsanforderungen von IT-Systemen analysieren und Maßnahmen zur IT-Sicherheit ableiten, abstimmen, umsetzen und evaluieren"
-                  },
-                  {
-                    "lfd": "A6c",
-                    "text": "Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen"
-                  },
-                  {
-                    "lfd": "A6d",
-                    "text": "Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz beraten"
-                  },
-                  {
-                    "lfd": "A6e",
-                    "text": "Wirksamkeit und Effizienz der umgesetzten Maßnahmen zur IT-Sicherheit und zum Datenschutz prüfen"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "8 Betreiben von IT-Systemen",
-                "points": [
-                  {
-                    "lfd": "A8a",
-                    "text": "Netzwerkkonzepte für unterschiedliche Anwendungsgebiete unterscheiden"
-                  },
-                  {
-                    "lfd": "A8b",
-                    "text": "Datenaustausch von vernetzten Systemen realisieren"
-                  },
-                  {
-                    "lfd": "A8c",
-                    "text": "Verfügbarkeit und Ausfallwahrscheinlichkeiten analysieren und Lösungsvorschläge unterbreiten"
-                  },
-                  {
-                    "lfd": "A8d",
-                    "text": "Maßnahmen zur präventiven Wartung und zur Störungsvermeidung einleiten und durchführen"
-                  },
-                  {
-                    "lfd": "A8e",
-                    "text": "Störungsmeldungen aufnehmen und analysieren sowie Maßnahmen zur Störungsbeseitigung ergreifen"
-                  },
-                  {
-                    "lfd": "A8f",
-                    "text": "Dokumentationen zielgruppengerecht und barrierefrei anfertigen, bereitstellen und pflegen, insbesondere technische Dokumentationen, System- sowie Benutzerdokumentationen"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Inbetriebnehmen von Speicherlösungen",
-                "points": [
-                  {
-                    "lfd": "A9a",
-                    "text": "Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und -rechte, festlegen und implementieren"
-                  },
-                  {
-                    "lfd": "A9b",
-                    "text": "Speicherlösungen, insbesondere Datenbanksysteme, integrieren"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Programmieren von Softwarelösungen",
-                "points": [
-                  {
-                    "lfd": "A10a",
-                    "text": "Programmspezifikationen festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten sowie Schnittstellen festlegen"
-                  },
-                  {
-                    "lfd": "A10b",
-                    "text": "Programmiersprachen auswählen und unterschiedliche Programmiersprachen anwenden"
-                  },
-                  {
-                    "lfd": "A10c",
-                    "text": "Teilaufgaben von IT-Systemen automatisieren"
-                  }
-                ]
-              }
+  {
+    "abschnitt": "A",
+    "text": "fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten",
+    "teile": [
+      {
+        "ueberbegriff": "Planen, Vorbereiten und Durchführen von Arbeitsaufgaben in Abstimmung mit den kundenspezifischenGeschäfts- und Leistungsprozessen",
+        "points": [
+          {
+            "lfd": "A1a",
+            "text": "Grundsätze und Methoden des Projektmanagements anwenden"
+          },
+          {
+            "lfd": "A1b",
+            "text": "Auftragsunterlagen und Durchführbarkeit desAuftrags prüfen, insbesondere in Hinblick auf rechtliche, wirtschaftliche und terminliche Vorgaben, und den Auftrag mit den betrieblichen Prozessen und Möglichkeiten abstimmen"
+          },
+          {
+            "lfd": "A1c",
+            "text": "Zeitplan und Reihenfolge der Arbeitsschritte für den eigenen Arbeitsbereich festlegen"
+          },
+          {
+            "lfd": "A1d",
+            "text": "Termine planen und abstimmen sowie Terminüberwachung durchführen"
+          },
+          {
+            "lfd": "A1e",
+            "text": "Probleme analysieren und als Aufgabe definieren sowie Lösungsalternativen entwickeln und beurteilen"
+          },
+          {
+            "lfd": "A1f",
+            "text": "Arbeits- und Organisationsmittel wirtschaftlich und ökologisch unter Berücksichtigung der vorhandenen Ressourcen und der Budgetvorgabeneinsetzen"
+          },
+          {
+            "lfd": "A1g",
+            "text": "Aufgaben im Team sowie mit internen und externen Kunden und Kundinnen planen und abstimmen"
+          },
+          {
+            "lfd": "A1h",
+            "text": "betriebswirtschaftlich relevante Daten erheben und bewerten und dabei Geschäfts- und Leistungsprozesse berücksichtigen"
+          },
+          {
+            "lfd": "A1i",
+            "text": "eigene Vorgehensweise sowie die Aufgabendurchführung im Team reflektieren und bei derVerbesserung der Arbeitsprozesse mitwirken"
+          }
         ]
-    },
-    {
-        "abschnitt": "B",
-        "text": "berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung",
-        "teile": [
-            {
-                "ueberbegriff": "Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen",
-                "points": [
-                  {
-                    "lfd": "B1a",
-                    "text": "Vorgehensmodelle und -methoden sowie Entwicklungsumgebungen und -bibliotheken auswählen und einsetzen"
-                  },
-                  {
-                    "lfd": "B1b",
-                    "text": "Analyse- und Designverfahren anwenden"
-                  },
-                  {
-                    "lfd": "B1c",
-                    "text": "Benutzerschnittstellen ergonomisch gestalten und an Kundenanforderungen anpassen"
-                  },
-                  {
-                    "lfd": "B1d",
-                    "text": "Anwendungslösungen unter Berücksichtigung der bestehenden Systemarchitektur entwerfen und realisieren"
-                  },
-                  {
-                    "lfd": "B1e",
-                    "text": "bestehende Anwendungslösungen anpassen"
-                  },
-                  {
-                    "lfd": "B1f",
-                    "text": "Datenaustausch zwischen Systemen realisieren und unterschiedliche Datenquellen nutzen"
-                  },
-                  {
-                    "lfd": "B1g",
-                    "text": "komplexe Abfragen aus unterschiedlichen Datenquellen durchführen und Datenbestandsberichte erstellen"
-                  }
-                ]
-              },
-              {
-                "ueberbegriff": "Sicherstellen der Qualität von Softwareanwendungen",
-                "points": [
-                  {
-                    "lfd": "B2a",
-                    "text": "Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen berücksichtigen"
-                  },
-                  {
-                    "lfd": "B2b",
-                    "text": "Datenintegrität mithilfe von Werkzeugen sicherstellen"
-                  },
-                  {
-                    "lfd": "B2c",
-                    "text": "Modultests erstellen und durchführen"
-                  },
-                  {
-                    "lfd": "B2d",
-                    "text": "Werkzeuge zur Versionsverwaltung einsetzen"
-                  },
-                  {
-                    "lfd": "B2e",
-                    "text": "Testkonzepte erstellen und Tests durchführen sowie Testergebnisse bewerten und dokumentieren"
-                  },
-                  {
-                    "lfd": "B2f",
-                    "text": "Daten und Sachverhalte aus Tests multimedialaufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung derbetrieblichen Vorgaben präsentieren"
-                  }
-                ]
-              }
+      },
+      {
+        "ueberbegriff": "Informieren und Beraten von Kunden und Kundinnen",
+        "points": [
+          {
+            "lfd": "A2a",
+            "text": "im Rahmen der Marktbeobachtung Preise, Leistungen und Konditionen von Wettbewerbern vergleichen"
+          },
+          {
+            "lfd": "A2b",
+            "text": "Bedarfe von Kunden und Kundinnen feststellen sowie Zielgruppen unterscheiden"
+          },
+          {
+            "lfd": "A2c",
+            "text": "Kunden und Kundinnen unter Beachtung vonKommunikationsregeln informieren sowie Sachverhalte präsentieren und dabei deutsche undenglische Fachbegriffe anwenden"
+          },
+          {
+            "lfd": "A2d",
+            "text": "Maßnahmen für Marketing und Vertrieb unterstützen"
+          },
+          {
+            "lfd": "A2e",
+            "text": "Informationsquellen auch in englischer Sprache aufgabenbezogen auswerten und für die Kundeninformation nutzen"
+          },
+          {
+            "lfd": "A2f",
+            "text": "Gespräche situationsgerecht führen und Kunden und Kundinnen unter Berücksichtigung der Kundeninteressen beraten"
+          },
+          {
+            "lfd": "A2g",
+            "text": "Kundenbeziehungen unter Beachtung rechtlicherRegelungen und betrieblicher Grundsätze gestalten"
+          },
+          {
+            "lfd": "A2h",
+            "text": "Daten und Sachverhalte interpretieren, multimedial aufbereiten und situationsgerecht unterNutzung digitaler Werkzeuge und unter Berücksichtigung der betrieblichen Vorgaben präsentieren"
+          }
         ]
-    }
+      },
+      {
+        "ueberbegriff": "Beurteilen marktgängiger IT-Systeme und kundenspezifischer Lösungen ",
+        "points": [
+          {
+            "lfd": "A3a",
+            "text": "marktgängige IT-Systeme für unterschiedlicheEinsatzbereiche hinsichtlich Leistungsfähigkeit,Wirtschaftlichkeit und Barrierefreiheit beurteilen"
+          },
+          {
+            "lfd": "A3b",
+            "text": "Angebote zu IT-Komponenten, IT-Produkten undIT-Dienstleistungen einholen und bewerten sowieSpezifikationen und Konditionen vergleichen"
+          },
+          {
+            "lfd": "A3c",
+            "text": "technologische Entwicklungstrends von ITSystemen feststellen sowie ihre wirtschaftlichen,sozialen und beruflichen Auswirkungen aufzeigen"
+          },
+          {
+            "lfd": "A3d",
+            "text": "Veränderungen von Einsatzfeldern für IT-Systeme aufgrund technischer, wirtschaftlicher und gesellschaftlicher Entwicklungen feststellen"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Entwickeln, Erstellen und Betreuen von IT-Lösungen",
+        "points": [
+          {
+            "lfd": "A4a",
+            "text": "IT-Systeme zur Bearbeitung betrieblicher Fachaufgaben analysieren sowie unter Beachtung insbesondere von Lizenzmodellen, Urheberrechten und Barrierefreiheit konzeptionieren, konfigurieren, testen und dokumentieren"
+          },
+          {
+            "lfd": "A4b",
+            "text": "Programmiersprachen, insbesondere prozedurale und objektorientierte Programmiersprachen,unterscheiden"
+          },
+          {
+            "lfd": "A4c",
+            "text": "systematisch Fehler erkennen, analysieren und beheben"
+          },
+          {
+            "lfd": "A4d",
+            "text": "Algorithmen formulieren und Anwendungen in einer Programmiersprache erstellen"
+          },
+          {
+            "lfd": "A4e",
+            "text": "Datenbankmodelle unterscheiden, Daten organisieren und speichern sowie Abfragen erstellen"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Durchführen und Dokumentieren von qualitätssichernden Maßnahmen",
+        "points": [
+          {
+            "lfd": "A5a",
+            "text": "betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden und Qualitätssicherungsmaßnahmen projektbegleitend durchführen und dokumentieren"
+          },
+          {
+            "lfd": "A5b",
+            "text": "Ursachen von Qualitätsmängeln systematisch feststellen, beseitigen und dokumentieren"
+          },
+          {
+            "lfd": "A5c",
+            "text": "im Rahmen eines Verbesserungsprozesses die Zielerreichung kontrollieren, insbesondere einen Soll-Ist-Vergleich durchführen"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz",
+        "points": [
+          {
+            "lfd": "A6a",
+            "text": "betriebliche Vorgaben und rechtliche Regelungen zur IT-Sicherheit und zum Datenschutz einhalten"
+          },
+          {
+            "lfd": "A6b",
+            "text": "Sicherheitsanforderungen von IT-Systemen analysieren und Maßnahmen zur IT-Sicherheit ableiten, abstimmen, umsetzen und evaluieren"
+          },
+          {
+            "lfd": "A6c",
+            "text": "Bedrohungsszenarien erkennen und Schadenspotenziale unter Berücksichtigung wirtschaftlicher und technischer Kriterien einschätzen"
+          },
+          {
+            "lfd": "A6d",
+            "text": "Kunden und Kundinnen im Hinblick auf Anforderungen an die IT-Sicherheit und an den Datenschutz beraten"
+          },
+          {
+            "lfd": "A6e",
+            "text": "Wirksamkeit und Effizienz der umgesetzten Maßnahmen zur IT-Sicherheit und zum Datenschutz prüfen"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Erbringen der Leistungen und Auftragsabschluss",
+        "points": [
+          {
+            "lfd": "A7a",
+            "text": "Leistungen nach betrieblichen und vertraglichen Vorgaben dokumentieren"
+          },
+          {
+            "lfd": "A7b",
+            "text": "Leistungserbringung unter Berücksichtigung der organisatorischen und terminlichen Vorgaben mit Kunden und Kundinnen abstimmen und kontrollieren"
+          },
+          {
+            "lfd": "A7c",
+            "text": "Veränderungsprozesse begleiten und unterstützen"
+          },
+          {
+            "lfd": "A7d",
+            "text": "Kunden und Kundinnen in die Nutzung von Produkten und Dienstleistungen einweisen"
+          },
+          {
+            "lfd": "A7e",
+            "text": "Leistungen und Dokumentationen an Kunden und Kundinnen übergeben sowie Abnahmeprotokolle anfertigen"
+          },
+          {
+            "lfd": "A7f",
+            "text": "Kosten für erbrachte Leistungen erfassen sowie im Zeitvergleich und im Soll-Ist-Vergleich bewerten"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "8 Betreiben von IT-Systemen",
+        "points": [
+          {
+            "lfd": "A8a",
+            "text": "Netzwerkkonzepte für unterschiedliche Anwendungsgebiete unterscheiden"
+          },
+          {
+            "lfd": "A8b",
+            "text": "Datenaustausch von vernetzten Systemen realisieren"
+          },
+          {
+            "lfd": "A8c",
+            "text": "Verfügbarkeit und Ausfallwahrscheinlichkeiten analysieren und Lösungsvorschläge unterbreiten"
+          },
+          {
+            "lfd": "A8d",
+            "text": "Maßnahmen zur präventiven Wartung und zur Störungsvermeidung einleiten und durchführen"
+          },
+          {
+            "lfd": "A8e",
+            "text": "Störungsmeldungen aufnehmen und analysieren sowie Maßnahmen zur Störungsbeseitigung ergreifen"
+          },
+          {
+            "lfd": "A8f",
+            "text": "Dokumentationen zielgruppengerecht und barrierefrei anfertigen, bereitstellen und pflegen, insbesondere technische Dokumentationen, System- sowie Benutzerdokumentationen"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Inbetriebnehmen von Speicherlösungen",
+        "points": [
+          {
+            "lfd": "A9a",
+            "text": "Sicherheitsmechanismen, insbesondere Zugriffsmöglichkeiten und -rechte, festlegen und implementieren"
+          },
+          {
+            "lfd": "A9b",
+            "text": "Speicherlösungen, insbesondere Datenbanksysteme, integrieren"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Programmieren von Softwarelösungen",
+        "points": [
+          {
+            "lfd": "A10a",
+            "text": "Programmspezifikationen festlegen, Datenmodelle und Strukturen aus fachlichen Anforderungen ableiten sowie Schnittstellen festlegen"
+          },
+          {
+            "lfd": "A10b",
+            "text": "Programmiersprachen auswählen und unterschiedliche Programmiersprachen anwenden"
+          },
+          {
+            "lfd": "A10c",
+            "text": "Teilaufgaben von IT-Systemen automatisieren"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "abschnitt": "B",
+    "text": "berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in der Fachrichtung Anwendungsentwicklung",
+    "teile": [
+      {
+        "ueberbegriff": "Konzipieren und Umsetzen von kundenspezifischen Softwareanwendungen",
+        "points": [
+          {
+            "lfd": "B1a",
+            "text": "Vorgehensmodelle und -methoden sowie Entwicklungsumgebungen und -bibliotheken auswählen und einsetzen"
+          },
+          {
+            "lfd": "B1b",
+            "text": "Analyse- und Designverfahren anwenden"
+          },
+          {
+            "lfd": "B1c",
+            "text": "Benutzerschnittstellen ergonomisch gestalten und an Kundenanforderungen anpassen"
+          },
+          {
+            "lfd": "B1d",
+            "text": "Anwendungslösungen unter Berücksichtigung der bestehenden Systemarchitektur entwerfen und realisieren"
+          },
+          {
+            "lfd": "B1e",
+            "text": "bestehende Anwendungslösungen anpassen"
+          },
+          {
+            "lfd": "B1f",
+            "text": "Datenaustausch zwischen Systemen realisieren und unterschiedliche Datenquellen nutzen"
+          },
+          {
+            "lfd": "B1g",
+            "text": "komplexe Abfragen aus unterschiedlichen Datenquellen durchführen und Datenbestandsberichte erstellen"
+          }
+        ]
+      },
+      {
+        "ueberbegriff": "Sicherstellen der Qualität von Softwareanwendungen",
+        "points": [
+          {
+            "lfd": "B2a",
+            "text": "Sicherheitsaspekte bei der Entwicklung von Softwareanwendungen berücksichtigen"
+          },
+          {
+            "lfd": "B2b",
+            "text": "Datenintegrität mithilfe von Werkzeugen sicherstellen"
+          },
+          {
+            "lfd": "B2c",
+            "text": "Modultests erstellen und durchführen"
+          },
+          {
+            "lfd": "B2d",
+            "text": "Werkzeuge zur Versionsverwaltung einsetzen"
+          },
+          {
+            "lfd": "B2e",
+            "text": "Testkonzepte erstellen und Tests durchführen sowie Testergebnisse bewerten und dokumentieren"
+          },
+          {
+            "lfd": "B2f",
+            "text": "Daten und Sachverhalte aus Tests multimedialaufbereiten und situationsgerecht unter Nutzung digitaler Werkzeuge und unter Beachtung derbetrieblichen Vorgaben präsentieren"
+          }
+        ]
+      }
+    ]
+  }
 ]
-

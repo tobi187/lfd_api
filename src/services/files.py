@@ -5,8 +5,9 @@ import os
 import uuid
 
 
-BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
+# BASE_PATH = r"C:\Users\fischert\Desktop\projects\home\lfd_api\temp"
 # BASE_PATH = r"C:\Users\fisch\Desktop\projects\api\lfd_api\temp"
+BASE_PATH = r"C:\Users\fisch\Desktop\projects\web\lfd_api\temp"
 ALLOWED_EXTENSION = "docx"
 
 
